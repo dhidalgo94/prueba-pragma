@@ -22,10 +22,12 @@ Para ejecutar la aplicación web ingresar el comando 'npm run dev'
 
 ## Tecnologías utilizadas
 React 18.0.18
+
 .NET 6 con EntityFramework
+
 SQL Server Express
 
-### Librerias externas para el Frontend
+### Librerías externas para el Frontend
 Bootstrap para aspectos visuales
 
 date-fns para formato de fechas
